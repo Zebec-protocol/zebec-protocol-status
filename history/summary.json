@@ -4,18 +4,20 @@
     "url": "https://zebec.io/",
     "icon": "https://icons.duckduckgo.com/ip3/zebec.io.ico",
     "slug": "landing-page",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 220,
     "timeDay": 220,
     "timeWeek": 220,
     "timeMonth": 220,
     "timeYear": 220,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-27": 0
+    }
   },
   {
     "name": "Application",

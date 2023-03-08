@@ -34,7 +34,7 @@ sites:
       - abii19
 
 status-website:
-  cname: uptime-status.zebec.io
+  cname: status.zebec.io
   #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Zebec Protocol Uptime Monitor
   introTitle: Monitor the status of Zebec Protocol Website / Services using this repository.

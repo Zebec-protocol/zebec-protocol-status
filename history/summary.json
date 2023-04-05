@@ -42,19 +42,19 @@
     "url": "http://api-v2.zebec.io/ht/",
     "icon": "https://icons.duckduckgo.com/ip3/api-v2.zebec.io.ico",
     "slug": "api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 362,
-    "timeDay": 1731,
-    "timeWeek": 688,
-    "timeMonth": 376,
-    "timeYear": 362,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 364,
+    "timeDay": 1291,
+    "timeWeek": 658,
+    "timeMonth": 377,
+    "timeYear": 364,
     "dailyMinutesDown": {
-      "2023-04-05": 0
+      "2023-04-05": 10
     }
   },
   {
